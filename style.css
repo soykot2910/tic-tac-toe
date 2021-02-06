@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.board-wrapper {
+  width: 400px;
+  height: 800px;
+  margin: 0 auto;
+  background: black;
+  text-align: center;
+}
+.winner {
+  color: red;
+}
+.round {
+  width: 100px;
+  height: 100px;
+  background: green;
+  float: left;
+  margin: 4px;
+}
